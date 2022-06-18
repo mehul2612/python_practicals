@@ -1,0 +1,14 @@
+l1=[1,'Sparta',3.14,True]
+print(l1)
+print(type(l1))
+print(l1[0])
+print(l1[-1])
+print(l1[0:3])
+l1[1]=2
+print(l1[1])
+l1.append('Mehul')
+l1.reverse()
+print(l1)
+l2=[2,3,4,5]
+print(l1+l2)
+print(l2*3)
